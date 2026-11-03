@@ -7,35 +7,22 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2487.4">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #5a5a5a; -webkit-text-stroke: #5a5a5a}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #5a5a5a; -webkit-text-stroke: #5a5a5a; min-height: 14.0px}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #484848; -webkit-text-stroke: #484848; min-height: 14.0px}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #484848; -webkit-text-stroke: #484848}
     span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p1"><span class="s1">layout: archive</span></p>
-<p class="p1"><span class="s1">title: "Publications and preprints"</span></p>
-<p class="p1"><span class="s1">permalink: /publications/</span></p>
-<p class="p1"><span class="s1">author_profile: true</span></p>
-<p class="p1"><span class="s1">---</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;ol&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;2026.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;Mumford compactness for</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>\(\operatorname{PSL}(3,\mathbb{R})\)-Hitchin representations.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;2026.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;Geometric properties of</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>\(\operatorname{Sp}(4,\mathbb{R})\)-Hitchin representations.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;2026.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;strong&gt;Geometry at infinity of cyclic minimal surfaces in the Hitchin component.&lt;/strong&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;em&gt;(In preparation)&lt;/em&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1">&lt;/ol&gt;</span></p>
+<p class="p1"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1">---</span></p>
+<p class="p2"><span class="s1">layout: archive</span></p>
+<p class="p2"><span class="s1">title: "Publications and preprints"</span></p>
+<p class="p2"><span class="s1">permalink: /publications/</span></p>
+<p class="p2"><span class="s1">author_profile: true</span></p>
+<p class="p2"><span class="s1">---</span></p>
+<p class="p1"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1">{% for post in site.publications reversed %}</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span>{% include archive-single.html %}</span></p>
+<p class="p2"><span class="s1">{% endfor %}</span></p>
 </body>
 </html>
