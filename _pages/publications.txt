@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Publications and preprints"
+permalink: /publications/
+author_profile: true
+---
+
+<ol>
+  <li>
+    <strong>2026.</strong>
+    <strong>Mumford compactness for
+    PSL(3,R)-Hitchin representations.</strong>
+  </li>
+  <li>
+    <strong>2026.</strong>
+    <strong>Geometric properties of
+    Sp(4,R)-Hitchin representations.</strong>
+  </li>
+  <li>
+    <strong>2026.</strong>
+    <strong>Geometry at infinity of cyclic minimal surfaces in the Hitchin component.</strong>
+    <em>(In preparation)</em>
+  </li>
+</ol>
