@@ -5,18 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is concerned with interactions between geometric structures, representation theory, dynamics, and geometric analysis.
+My research is concerned with studying the geometry of cyclic minimal surfaces associated to Hitchin representations in rank two splits real Lie groups and also studying the geometry at infinity of minimal surfaces associated to cyclic Higgs bundles in the Hitchin component of SL(n,R).
 
 ## Anosov representations and Higher Teichmüller Theory
 
-I am interested in Anosov representations, deformation spaces of surface-group representations, and the geometric and dynamical structures associated with them.
+I am interested in Anosov representations, more particularly the Hitchin component and the geometry of minimal surfaces arising from such representations.
 
 ## Higgs bundles and minimal surfaces
 
-I am interested in the relations between Higgs bundles, harmonic maps, and the geometry of minimal surfaces.
+I am interested in the relations between Higgs bundles, harmonic maps, and the geometry of minimal surfaces. 
 
-## Thermodynamic formalism and geometric analysis
-
-I am also interested in thermodynamic methods in dynamics and in analytic techniques arising in geometric problems.
-
-*This page will be expanded with a more detailed description of my thesis project and research results.*
+## Thermodynamic formalism and Kähler geometry
+Additionally, I am interested in uncovering possible relations between the thermodynamic formalism (specifically the pressure metric) on the Hitchin component and the Hodge-theoretic hyperkähler structure on the Hitchin component.
