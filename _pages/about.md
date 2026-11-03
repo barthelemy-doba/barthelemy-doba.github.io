@@ -12,7 +12,7 @@ classes: wide
 
 # Welcome
 
-I am a PhD candidate in pure mathematics at [**Sorbonne Université**](https://www.sorbonne-universite.fr), under the supervision of [**Andrés Sambarino**](https://sambarino-andres.apps.math.cnrs.fr). I completed my Master degree at **Université Sorbonne Paris Nord** in 2024 and another one at **AIMS-Cameroon** in 2023 under the supervision of  **Prof. Dr. Hans-Georg Rück**.
+I am a PhD student in pure mathematics at [**Sorbonne Université**](https://www.sorbonne-universite.fr), under the supervision of [**Andrés Sambarino**](https://sambarino-andres.apps.math.cnrs.fr). I completed my Master degree at **Université Sorbonne Paris Nord** in 2024 and another one at **AIMS-Cameroon** in 2023 under the supervision of  **Prof. Dr. Hans-Georg Rück**.
 
 My research interests lie at the intersection of **Higher Teichmüller theory, Higgs bundles, and geometric analysis**. I am particularly interested in:
 
@@ -20,7 +20,7 @@ My research interests lie at the intersection of **Higher Teichmüller theory, H
 - Higgs bundles;
 - minimal surfaces and harmonic maps;
 - thermodynamic formalism;
-- Ultraproduct and Building;'
+- Ultraproduct and Building;
 - geometric analysis;
 - PVHS, (G,P)-opers, Chern Simon and Chern-Weil theory.
 
