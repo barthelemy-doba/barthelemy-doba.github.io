@@ -12,16 +12,17 @@ classes: wide
 
 # Welcome
 
-I am a PhD candidate in mathematics at **Sorbonne Université**, under the supervision of **Andrés Sambarino**. My thesis, provisionally entitled *Geometry of Minimal Surfaces*, is expected to be defended by September 2027.
+I am a PhD candidate in pure mathematics at [**Sorbonne Université**](https://www.sorbonne-universite.fr), under the supervision of [**Andrés Sambarino**](https://sambarino-andres.apps.math.cnrs.fr). I completed my Master degree at **Université Sorbonne Paris Nord** in 2024 and another one at **AIMS-Cameroon** in 2023 under the supervion of  [**Prof. Dr. Hans-Georg Rück**] (https://www.mathematik.uni-kassel.de/~rueck/).
 
-My research interests lie at the intersection of **geometric structures, representation theory, and geometric analysis**. I am particularly interested in:
+My research interests lie at the intersection of **Higher Teichmüller theory, Higgs bundles, and geometric analysis**. I am particularly interested in:
 
 - Anosov representations and Higher Teichmüller Theory;
 - Higgs bundles;
 - minimal surfaces and harmonic maps;
 - thermodynamic formalism;
-- geometric analysis.
+- geometric analysis;
+- PVHS, (G,P)-opers, Chern Simon and Chern-Weil theory.
 
 I am currently preparing preprints. Bibliographic information and links will be added to the publications page.
 
-For academic enquiries, please contact me at [dobabarthelemy@gmail.com](mailto:dobabarthelemy@gmail.com).
+For academic enquiries, please contact me at [doba@imj-prg.fr](doba@imj-prg.fr) or [barthelemy.doba@sorbonne-universite.fr](barthelemy.doba@sorbonne-universite.fr).
