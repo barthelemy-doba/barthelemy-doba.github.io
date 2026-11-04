@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research is concerned with studying the geometry of cyclic minimal surfaces associated to Hitchin representations in rank two splits real Lie groups and also studying the geometry at infinity of minimal surfaces associated to cyclic Higgs bundles in the Hitchin component of SL(n,R).
+My research is concerned with studying the geometry of cyclic minimal surfaces associated to Hitchin representations in rank two splits real Lie groups and also studying the geometry at infinity of minimal surfaces associated to cyclic Higgs bundles in the Hitchin component of SL(n,ℝ).
 
 ## Anosov representations and Higher Teichmüller Theory
 
