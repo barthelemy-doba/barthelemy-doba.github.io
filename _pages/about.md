@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <div class="home-hero">
-  <img src="/images/geometry-hero.jpg" alt="Abstract mathematical surface with a geometric mesh" />
+  <img src="/images/geometry-hero.png" alt="Abstract mathematical surface with a geometric mesh" />
 </div>
 
 # Welcome
